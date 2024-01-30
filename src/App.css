@@ -1,7 +1,7 @@
 @import url('https://fonts.cdnfonts.com/css/graffiti-font');
 *{gap: 15px;
-  font-family: 'Graffiti font', sans-serif;
-
+  /* font-family: 'Graffiti font', sans-serif;
+ */
 }
 body {
   text-align: center;
